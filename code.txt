@@ -3,6 +3,7 @@ The Cave Painting
 deer
 friend
 buck
+Yellow
 boar
 rabbit
 handprint
