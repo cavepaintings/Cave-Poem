@@ -6,5 +6,6 @@ buck
 boar
 rabbit
 handprint
+green
 
 these are the contents of the cave wall
